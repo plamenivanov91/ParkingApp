@@ -1,0 +1,30 @@
+{
+"frames": {
+	"busVehicle.png": {
+		"frame": {"x":0, "y":268, "w":572, "h":267},
+		"spriteSourceSize": {"x":0,"y":0,"w":572,"h":267},
+		"sourceSize": {"w":572,"h":267}
+	},
+	"carVehicle.png": {
+		"frame": {"x":0, "y":0, "w":587, "h":267},
+		"spriteSourceSize": {"x":0,"y":0,"w":587,"h":267},
+		"sourceSize": {"w":587,"h":267}
+	},
+	"money.png": {
+		"frame": {"x":455, "y":536, "w":104, "h":117},
+		"spriteSourceSize": {"x":9,"y":5,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+	"policeVehicle.png": {
+		"frame": {"x":0, "y":536, "w":454, "h":231},
+		"spriteSourceSize": {"x":0,"y":0,"w":454,"h":231},
+		"sourceSize": {"w":454,"h":231}
+	}
+
+},
+"meta": {
+	"image": "Vehicles.png",
+	"size": {"w": 588, "h": 768},
+	"scale": "1"
+}
+}
