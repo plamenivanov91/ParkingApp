@@ -5,7 +5,7 @@ A small parking application made with PIXI.js and TweenMax.js which follows MVC 
 *install xampp \
 *paste the project files in ..xampp/htdocs \
 *start xampp's local server \
-*run http://localhost/Parking/Parking.html in browser (tested on Chrome Version 60.0.3112.101 (Official Build) (64-bit))
+*run http://localhost/ParkingApp/Parking.html in browser (tested on Chrome Version 60.0.3112.101 (Official Build) (64-bit))
 
 #Features \
 *Parking lot with 15 slots \
